@@ -52,5 +52,5 @@ The core filtering algorithms (`AdjustUp` and `AdjustDown`) are fully decoupled 
 - [x] Dynamic Array-based Max-Heap Implementation
 - [x] Fully Decoupled Adjust-Down / Adjust-Up Modules
 - [x] Highly Optimized In-place HeapSort ($O(N \log N)$)
-- [ ] Top-K Streaming Selection Engine (Coming up tomorrow!)
+- [x] Top-K Streaming Selection Engine ($O(N \log K)$ Time, $O(K)$ Space)
 - [ ] Link-based Binary Tree & Recursive Traversals
